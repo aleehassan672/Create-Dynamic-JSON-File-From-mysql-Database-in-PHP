@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "student_name": "Waqas Baloach",
+        "age": "25",
+        "city": "Multan"
+    },
+    {
+        "id": "2",
+        "student_name": "Salman Akbar",
+        "age": "24",
+        "city": "Lahore"
+    },
+    {
+        "id": "3",
+        "student_name": "Shahid Khan",
+        "age": "24",
+        "city": "Gujranwala"
+    },
+    {
+        "id": "4",
+        "student_name": "Mahnoor Fatima",
+        "age": "21",
+        "city": "Karachi"
+    },
+    {
+        "id": "5",
+        "student_name": "Muhammad Kaif",
+        "age": "23",
+        "city": "Sargodha"
+    },
+    {
+        "id": "6",
+        "student_name": "Ali Hassaan",
+        "age": "23",
+        "city": "Lahore"
+    }
+]
